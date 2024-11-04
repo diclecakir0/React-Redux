@@ -33,7 +33,7 @@
 
 - Note: If Redux is used for state management while using an API in the project, we must keep both in sync.
 
-# Kurulum
+# Installation
 
 - The redux and react-redux packages are installed.
 - A reducer to be used in the store is created.
